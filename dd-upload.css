@@ -1,0 +1,15 @@
+/* (A) UPLOAD ZONE */
+#upzone {
+  width: 300px; 
+  height: 200px; 
+  background: #cfd5ff;
+  padding: 10px;
+}
+#upzone.highlight {
+  background: #ff0;
+}
+
+/* (B) UPLOAD FORM */
+#upform {
+  display: none;
+}
